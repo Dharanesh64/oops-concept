@@ -7,7 +7,7 @@ This repository contains **well-structured notes** for all core **Object-Oriente
 It is designed for:
 
 * 📚 **Quick revision before interviews**
-* 💻 **Placement preparation **
+* 💻 **Placement preparation**
 * 🧠 **Strong conceptual understanding**
 
 ---
