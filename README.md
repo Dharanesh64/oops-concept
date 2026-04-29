@@ -90,7 +90,7 @@ It is designed for:
 
 > “I use encapsulation for data protection, inheritance for reuse, polymorphism for flexibility, and abstraction for clean design.”
 
----
+
 
 ## 📌 Future Improvements
 
